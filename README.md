@@ -2,7 +2,7 @@
 This repo contains the codes for the paper [Human Blockage Model for Indoor Terahertz Band Communication](https://ieeexplore.ieee.org/abstract/document/8757158).
 
 ## Guidelines
-To reproduce the plots of the paper [Human Blockage Model for Indoor Terahertz Band Communication](https://ieeexplore.ieee.org/abstract/document/8757158), first run `xtract_data.m` in MATLAB to generate data, and then run `plotter.m` to generate the plots.
+To reproduce the plots of the paper [Human Blockage Model for Indoor Terahertz Band Communication](https://ieeexplore.ieee.org/abstract/document/8757158), clone this repo, navigate to the `MATLAB_codes` folder within MATLAB, first run `xtract_data.m` in MATLAB to generate data, and then run `plotter.m` to generate the plots.
 
 ## Citation
 Please cite as:

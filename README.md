@@ -5,17 +5,17 @@ This repo contains the codes for the paper [Human Blockage Model for Indoor Tera
 To reproduce the plots of the paper [Human Blockage Model for Indoor Terahertz Band Communication](https://ieeexplore.ieee.org/abstract/document/8757158), clone this repo, navigate to the `MATLAB_codes` folder within MATLAB, first run `xtract_data.m` in MATLAB to generate data, and then run `plotter.m` to generate the plots.
 
 ## Citation
-Please cite as:
-  B. A. Bilgin, H. Ramezani and O. B. Akan, "Human Blockage Model for Indoor Terahertz Band Communication," *2019 IEEE International Conference on Communications Workshops (ICC Workshops)*, 2019, pp. 1-6, doi: 10.1109/ICCW.2019.8757158.
-Or as BibTeX:
-  @INPROCEEDINGS{8757158,
-    author={Bilgin, Bilgesu A. and Ramezani, Hamideh and Akan, Ozgur B.},
-    booktitle={2019 IEEE International Conference on Communications Workshops (ICC Workshops)}, 
-    title={Human Blockage Model for Indoor Terahertz Band Communication}, 
-    year={2019},
-    volume={},
-    number={},
-    pages={1-6},
+Please cite as:  
+  B. A. Bilgin, H. Ramezani and O. B. Akan, "Human Blockage Model for Indoor Terahertz Band Communication," *2019 IEEE International Conference on Communications Workshops (ICC Workshops)*, 2019, pp. 1-6, doi: 10.1109/ICCW.2019.8757158.  
+Or as BibTeX:  
+  @INPROCEEDINGS{8757158,  
+    author={Bilgin, Bilgesu A. and Ramezani, Hamideh and Akan, Ozgur B.},  
+    booktitle={2019 IEEE International Conference on Communications Workshops (ICC Workshops)},  
+    title={Human Blockage Model for Indoor Terahertz Band Communication},  
+    year={2019},  
+    volume={},  
+    number={},  
+    pages={1-6},  
     doi={10.1109/ICCW.2019.8757158}}
 
 ## License
